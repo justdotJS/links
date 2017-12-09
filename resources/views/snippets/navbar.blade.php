@@ -9,7 +9,7 @@
 
         <!-- Output sign in/sign out buttons appropriately -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="{{ route('index') }}"><!--{{env('APP_NAME')}}--><img src="https://dotjs.party/frame_000_delay-0.04s-2.png" style="border-radius:50%"></a>
+            <a class="navbar-brand" href="{{ route('index') }}"><!--{{env('APP_NAME')}}--><img src="https://dotjs.party/images/frame_000_delay-0.04s-2.png" style="border-radius:50%"></a>
         </div>
 
         <ul id="navbar" class="nav navbar-collapse collapse navbar-nav" id="nbc">
