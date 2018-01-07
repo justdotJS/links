@@ -9,7 +9,7 @@
 
         <!-- Output sign in/sign out buttons appropriately -->	
 	<div class="navbar-header">
-            <a class="reloadlink navbar-brand" href="https://about.dis.gg">
+            <a class="reloadlink navbar-brand" href="https://about.dis.gg" style="padding: 6px 4px 0 8px;">
             <img alt="dis.gg main" src="/img/dotjs.gif" width="38" />
             </a>
          </div>
