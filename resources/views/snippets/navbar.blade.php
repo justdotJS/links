@@ -7,10 +7,12 @@
             <span class="icon-bar"></span>
         </button>
 
-        <!-- Output sign in/sign out buttons appropriately -->
-        <div class="navbar-header">
-            <a class="navbar-brand" href="{{ route('index') }}"><!--{{env('APP_NAME')}}--><img src="https://dotjs.party/images/frame_000_delay-0.04s-2.png" style="border-radius:50%;width:20px"></a>
-        </div>
+        <!-- Output sign in/sign out buttons appropriately -->	
+	<div class="navbar-header">
+            <a class="reloadlink navbar-brand" href="https://about.dis.gg">
+            <img alt="dis.gg main" src="/img/dotjs.gif" width="38" />
+            </a>
+         </div>
 
         <ul id="navbar" class="nav navbar-collapse collapse navbar-nav" id="nbc">
 		    <li><a href="{{ route('about') }}">About</a></li>
