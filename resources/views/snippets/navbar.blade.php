@@ -15,7 +15,7 @@
          </div>
 
         <ul id="navbar" class="nav navbar-collapse collapse navbar-nav" id="nbc">
-		    <li><a href="{{ route('about') }}">About</a></li>
+		 <!--   <li><a href="{{ route('about') }}">About</a></li>-->
 
             @if (empty(session('username')))
                 <li class="visible-xs"><a href="{{ route('login') }}">Sign In</a></li>
