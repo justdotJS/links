@@ -1,3 +1,4 @@
+<meta name="theme-color" content="#000000" />
 <div class="container-fluid">
     <nav role="navigation" class="navbar navbar-default navbar-fixed-top">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -10,7 +11,7 @@
         <!-- Output sign in/sign out buttons appropriately -->	
 	<div class="navbar-header">
             <a class="reloadlink navbar-brand" href="https://about.dis.gg" style="padding: 6px 4px 0 8px;">
-            <img alt="dis.gg main" src="/img/dotjs.gif" width="38" />
+            <img alt="dis.gg main" src="https://about.dis.gg/disgg.png" width="38" />
             </a>
          </div>
 
